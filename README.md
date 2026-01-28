@@ -1,7 +1,3 @@
-Below is a polished, structured, and beautifully formatted **GitHub README** based on your introduction — complete with clean sections and emojis, ready to publish! 🚀  
-
----
-
 # 👋 Hi, I’m **Ejaz Ahmed**
 
 **Full Stack Developer | Programmer | 3D Designer**  
@@ -212,12 +208,4 @@ I’m always open to meaningful opportunities and conversations.
 
 > **Let’s build clean, reliable, and impactful solutions together.** 🚀  
 
----
 
-If you want, I can also:  
-✅ Add badges  
-✅ Add a profile banner  
-✅ Create a simplified or shorter version  
-✅ Format it for a GitHub **profile README**  
-
-Just let me know!
